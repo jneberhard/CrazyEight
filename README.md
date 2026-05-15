@@ -6,5 +6,5 @@ Section 8 - CSE 325
 *Jean Rubin Oxeant   
 *Mario Leo Junior Meza Mancilla   
 *Daniel 'Ezra' Rivera   
-*Charles Hemedi 
+*Charles Hemedi  
 *Natnael Gashaw 
